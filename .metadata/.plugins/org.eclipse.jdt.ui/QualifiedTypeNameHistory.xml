@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="comm.Aurionpro.model.MathUtil"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.Disabled"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model1.StringUtil"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model2.Customer"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model2.Product"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model2.Order"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model2.LineItem"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model.Board"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model.Cell"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.TestInstance"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.TestInstance.Lifecycle"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.DisplayName"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model.Player"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model.MarkType"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model.ResultAnalyzer"/>
+<fullyQualifiedTypeName name="comm.Aurionpro.model.ResultType"/>
+<fullyQualifiedTypeName name="com.Aurionpro.model.Calculator"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+<fullyQualifiedTypeName name="com.Aurionpro.model.CalculatorService"/>
+<fullyQualifiedTypeName name="com.Aurionpro.model1.Student"/>
+<fullyQualifiedTypeName name="org.mockito.Mock"/>
+<fullyQualifiedTypeName name="org.mockito.Mockito"/>
+<fullyQualifiedTypeName name="com.Aurionpro.model1.IStudentService"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+</qualifiedTypeNameHistroy>
